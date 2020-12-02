@@ -1,6 +1,6 @@
 # Your JavaScript 30 Project
 
-> This starter repository comes with a small application already coded. If you're familiar using this template then go ahead and delete all of the files in `src/handlers`, `src/listeners` and `src/logic`, then empty the data object in `src/data.js` and the `id="user-interface"` in the `index.html`. If it's your first time using this starter or you'd like to refresh, take some time to study and step through the example code before clearing it out to make room for your own project
+> This starter repository is written to take the [javascript-30](https://github.com/HackYourFutureBelgium/javascript-30)to the next level. It comes with a small application already coded. If you're familiar using this template then go ahead and delete all of the files in `src/handlers`, `src/listeners` and `src/logic`, then empty the data object in `src/data.js` and the `id="user-interface"` in the `index.html`. If it's your first time using this starter or you'd like to refresh, take some time to study and step through the example code before clearing it out to make room for your own project.
 
 > When you're ready to work on your own project you will also want to change the title of this README and remove these instructions. The **Getting Started** section of the README is already written for you.
 
