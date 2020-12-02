@@ -2,7 +2,7 @@
 
 # DOCS
 
-> 12/1/2020, 9:41:46 PM
+> 12/2/2020, 12:21:08 PM
 
 <!-- END TITLE -->
 
@@ -33,8 +33,7 @@ Handler function define user interactions. They will:
 - read and modify program data variables
 - process user data with logic functions
 - update the DOM to show changes to the user
-
-they log any important information for developers
+- log any important information for developers
 
 ---
 
@@ -60,9 +59,9 @@ creates a mirror-image rendering of the user input and displays the growing artw
 
 changes the program's separator value
 
-| Param | Type               | Description                                                          |
-| ----- | ------------------ | -------------------------------------------------------------------- |
-| event | <code>Event</code> | triggered whenever a user releases a key in the separator input area |
+| Param | Type               | Description                                                 |
+| ----- | ------------------ | ----------------------------------------------------------- |
+| event | <code>Event</code> | triggered whenever a user types in the separator input area |
 
 [TOP](#DOCS)
 
