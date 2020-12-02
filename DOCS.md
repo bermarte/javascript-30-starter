@@ -2,8 +2,6 @@
 
 # DOCS
 
-> 12/2/2020, 1:47:31 PM
-
 <!-- END TITLE -->
 
 <!-- BEGIN TOC -->
