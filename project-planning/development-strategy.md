@@ -20,9 +20,11 @@ project description
 
 ---
 
-## 1. Initialize Application
+## X. Story Name
 
-**As a user I want to see the initial page when I load the site**
+> how much work do you think this step will take? small, medium, large?
+
+**As a user I want to \_\_\_ so that \_\_\_**
 
 - [ ] _Given [context] when [a specific action is performed] then [a set of consequences should occur]_
 - [ ] ...
