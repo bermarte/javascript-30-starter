@@ -15,7 +15,7 @@
 
 /**
  * data that is saved and used between user interactionss
- * @property {string} mirrorArt - the full user artwork
+ * @property {string} separator - the text to use as a "mirror"
  */
 export const data = {
   separator: '|',
