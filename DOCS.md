@@ -9,13 +9,14 @@
 - [handlers](#handlers)
   - [artify.js](#srchandlersartifyjs)
   - [change-separator.js](#srchandlerschange-separatorjs)
+- [init](#init)
+  - [index.js](#srcinitindexjs)
 - [listeners](#listeners)
   - [change-separator.js](#srclistenerschange-separatorjs)
   - [inputting.js](#srclistenersinputtingjs)
 - [logic](#logic)
   - [reverse.js](#srclogicreversejs)
 - [data.js](#srcdatajs)
-- [init.js](#srcinitjs)
 
 <!-- END TOC -->
 
@@ -60,6 +61,18 @@ changes the program's separator value
 | Param | Type               | Description                                                 |
 | ----- | ------------------ | ----------------------------------------------------------- |
 | event | <code>Event</code> | triggered whenever a user types in the separator input area |
+
+[TOP](#DOCS)
+
+---
+
+---
+
+# init
+
+---
+
+### [./src/init/index.js](./src/init/index.js?study)
 
 [TOP](#DOCS)
 
@@ -146,12 +159,8 @@ data that is saved and used between user interactionss
 
 **Properties**
 
-| Name      | Type                | Description           |
-| --------- | ------------------- | --------------------- |
-| mirrorArt | <code>string</code> | the full user artwork |
-
----
-
-## [./src/init.js](./src/init.js?study)
+| Name      | Type                | Description                   |
+| --------- | ------------------- | ----------------------------- |
+| separator | <code>string</code> | the text to use as a "mirror" |
 
 <!-- END DOCS -->
